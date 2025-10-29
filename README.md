@@ -34,7 +34,10 @@ A stylish, dark-themed login page built with **HTML** and **CSS**, featuring ani
    cd neon-dark-login
    ```
 3. Open index.html in your browser (double-click or use a local server).
+   ```bash
+   index.html
    ```
+   
    
 
 
